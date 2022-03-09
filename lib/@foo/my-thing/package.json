@@ -1,0 +1,6 @@
+{
+  "name": "@foo/my-thing",
+  "keywords": [
+    "ember-addon"
+  ]
+}
